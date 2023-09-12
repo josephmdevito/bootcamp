@@ -1,0 +1,10 @@
+Have your file structure inside your repos look like this for the python assignments unless otherwise requested in the homework instructions:
+
+
+      repo_name 
+            |__ data/   
+            |    |__ file_name.csv
+            |
+            |__ python_file.py or python_file.ipynb
+            |__ README.md
+            |__ .gitignore
